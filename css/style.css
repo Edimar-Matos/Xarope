@@ -1,0 +1,84 @@
+#contenedor{
+	height: 1050px;
+	width: 780px;	
+}
+
+header, #Home, #About, #contacto{
+	background-repeat: no-repeat;
+	background-size: 1050px 500px;
+	height: 400px;
+}
+h1{
+	
+	color: black;
+	
+}
+h2{
+	font: 50px solid xx-large  ;
+	color: hsl(0, 100%, 41%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+
+}
+.jumbotron .zap{
+font: 40px solid;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+color: blue;
+
+}
+
+.zap img{
+width: 60px;	
+border-radius: 20%;
+}
+p.lead{
+	font: 40px solid xx-large  ;
+	color: hsl(0, 100%, 41%);
+	text-align: end;
+	
+}
+
+.foto{
+	background-image: url("../img/xarope.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo{
+	width: 50px;
+}
+
+.jumbotron.text-center{
+	color: rgb(255, 0, 0);	
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+}
+footer .blanco{
+	background-color: white;
+	border:1.5px;
+	border-style: solid; color: #21252917;
+	text-align: center;
+	font-size: 0px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+
+}
+footer .gris {
+	background-color: #094d2517;
+	padding-top: 10px;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 40px;
+	margin-right: 40px;
+	
+}
+
+
+
+.card-title{
+	color: black;
+}
+ .card-text{
+ 	color: black;
+ }
