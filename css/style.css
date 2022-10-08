@@ -92,6 +92,7 @@ p.lead{
 	background-image: url("../img/xarope.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	padding-bottom: 30px;
 }
 .logo{
 	width: 50px;
